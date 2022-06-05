@@ -1,5 +1,5 @@
 # ServerSocket
-##Repositorio para el proyecto de Socket con NodeJs, Angular y Express y Socket.io
+## Repositorio para el proyecto de Socket con NodeJs, Angular y Express y Socket.io
 
 
 Estos comandos se ejecutaron en la carpeta base para su creación
@@ -17,6 +17,6 @@ npm run build
 npm run start
 ```
 
-##¿Que hace el servidor?
+## ¿Que hace el servidor?
 Una interfaz de chateo que permite compartir mensajes en una red conforme se unen los usuarios
 Muestra a los usuarios ya registrados en el servidor, y para inscribirse en el sistema, se ingresa un nombre de usuario
